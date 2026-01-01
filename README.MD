@@ -4,7 +4,7 @@ This document provides detailed steps to install and configure the Dart developm
 
 ## Step 1: Download Dart SDK
 
-1.  Visit the official Dart website: [https://dart.dev/get-dart](https://dart.dev/get-dart)
+1.  Visit the official Dart website: [https://dart.dev/get-dart/archive](https://dart.dev/get-dart/archive)
 2.  Select the **Windows** tab.
 3.  Download the Dart SDK installation file (usually a `.zip` file or use a package manager like Chocolatey, but the manual method is to download the **Dart SDK** as a zip file `dartsdk-windows-x64-release.zip`).
 
