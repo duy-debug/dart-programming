@@ -4,7 +4,7 @@ Tài liệu này hướng dẫn chi tiết các bước để cài đặt và c�
 
 ## Bước 1: Tải Dart SDK
 
-1.  Truy cập trang chính thức của Dart: [https://dart.dev/get-dart](https://dart.dev/get-dart)
+1.  Truy cập trang chính thức của Dart: [https://dart.dev/get-dart/archive](https://dart.dev/get-dart/archive)
 2.  Chọn tab **Windows**.
 3.  Tải xuống file cài đặt Dart SDK (thường là file `.zip` hoặc dùng trình quản lý gói như Chocolatey, nhưng cách thủ công phổ biến nhất là tải **Dart SDK** dưới dạng file nén `dartsdk-windows-x64-release.zip`).
 
