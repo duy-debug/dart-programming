@@ -23,7 +23,7 @@ bool kiemTraTrungLap(List<int> danhSach){
 
 // Phần 2: Thực nghiệm nghịch lý ngày sinh nhật
 void thucNghiemBirthdayParadox() {
-  int soLanThu = 100000; // Thử 100,000 lần để kết quả chính xác
+  int soLanThu = 1000000; // Thử 1,000,000 lần để kết quả chính xác
   int soLanTrung = 0;
   var rand = Random();
 
@@ -39,12 +39,11 @@ void thucNghiemBirthdayParadox() {
       soLanTrung++;
     }
   }
-
+  print("So lan trung: $soLanTrung");
   double tyLe = (soLanTrung / soLanThu) * 100;
   print("--- Birthday Paradox ---");
   print("Thử nghiệm $soLanThu lần với nhóm 23 người.");
   print("Kết quả: ${tyLe.toStringAsFixed(2)}% số nhóm có người trùng ngày sinh.");
-  print("Lý thuyết: ~50.7%");
 }
 
 void main(){
